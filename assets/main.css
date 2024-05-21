@@ -1,0 +1,12 @@
+#messageList li{
+    list-style: none;
+    box-shadow: 0 0 10px rgb(189, 188, 188);
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#messageList li:hover{
+    box-shadow: 0 0 20px rgb(143, 142, 142);
+}
